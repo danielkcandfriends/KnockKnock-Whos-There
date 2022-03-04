@@ -108,7 +108,7 @@ hr {
     left: -3px;
     width: 410px;
     height: 410px;
-    background: url('https://i.imgur.com/Ri4oxPF.png') fixed;
+    background: url('https://i.imgur.com/Ri4oxPF.png');
     background-size: cover;
 }
 #card_pull:hover {
